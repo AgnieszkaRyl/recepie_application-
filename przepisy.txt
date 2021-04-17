@@ -1,0 +1,15 @@
+638002	Chicken Cacciatore	45	28.0
+716429	Pasta with Garlic, Scallions, Cauliflower & Breadcrumbs	45	19.0
+1003464	Blueberry Rhubarb Pie	60	1.0
+1003465	Foodess	65	3.0
+638010	Chicken Carbonara	45	17.0
+600	Steak With Piquant Italian Salsa Verde	45	100.0
+9900	Asian Chicken Salad with Snap Peas and Bok Choy	40	26.0
+637162	Carrot and Cabbage Salad With Coriander+cumin Dry Rub	25	100.0
+769774	Shredded Roast Beef Stuffed Sweet Potatoes (Whole 30 & PALEO)	45	89.0
+9901	Nutty Thai Red Beef Curry	17	45.0
+9910	Beef and Bok Choy Hot Pot	45	53.0
+9920	Asian Greens and Tofu Soup	60	18.0
+1095731	Peach and Pistachio Greek Yogurt Bowl	5	15.0
+657000	Potato Soup With Peppers and Olives	45	12.0
+640062	Corn Avocado Salsa	25	71.0
